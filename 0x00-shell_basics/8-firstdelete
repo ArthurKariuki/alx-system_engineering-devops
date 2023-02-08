@@ -1,1 +1,2 @@
-#!/bin/bash\nrm betty/tmp/my_first_directory
+#!/bin/bash
+rm betty/tmp/my_first_directory
